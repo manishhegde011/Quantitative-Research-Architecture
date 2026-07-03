@@ -1,5 +1,3 @@
-[Certain] Since this repository is public, I would write it like a **professional open-source engineering project**, not as a personal project. Avoid saying "my project" repeatedly. Focus on the architecture, purpose, and technologies while intentionally stating that proprietary trading logic is excluded.
-
 ---
 
 # Alpha Generation Platform Architecture – Quantitative Research & Trading System
