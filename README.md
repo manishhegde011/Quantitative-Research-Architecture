@@ -1,4 +1,4 @@
-Alpha Generation Platform – Quantitative Research & Trading System
+Alpha Generation Platform Architecture– Quantitative Research & Trading System
 Repository Description
 
 The Alpha Generation Platform is a modular quantitative research and trading system developed to support systematic intraday options research for the Indian derivatives market. The platform is designed around a research-first architecture that transforms real-time market observations into structured, explainable trading decisions while maintaining complete separation between research, execution, analytics, and visualization.
